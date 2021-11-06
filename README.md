@@ -5,7 +5,7 @@ This Project is an implementation of the Frontend Interview Test from Ape Swap
 
 ## Live Preview
 
-```SwappedApe.vercel.app```
+```swapped-ape.vercel.app```
 
 ### Features
 
